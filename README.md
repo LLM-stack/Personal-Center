@@ -1,5 +1,5 @@
-# huanlequan
-llm
+# 个人中心
+一个vue搭建的商城个人中心
 > A Vue.js project
 
 ## Build Setup
